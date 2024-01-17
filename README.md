@@ -17,5 +17,7 @@ add solution for task1 task2 task3
 add folder topic_06
 add solution for task1 task2
 
+add folder topic_07
+add solution for task2 task3  task4
 
 # TP-KB-221-Rostyslav-Muratov

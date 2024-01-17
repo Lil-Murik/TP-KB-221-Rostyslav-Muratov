@@ -1,0 +1,17 @@
+
+
+	2024-01-17 22:30:33 
+Instance: 12.0 + 34.0 = 46.0 
+Operation: +, First num: 12.0, Second num: 34.0, Result or operation: 46.0
+
+	2024-01-17 22:30:53 
+Instance: 78.0 - 90.0 = -12.0 
+Operation: -, First num: 78.0, Second num: 90.0, Result or operation: -12.0
+
+	2024-01-17 22:31:03 
+Instance: 70.0 / 10.0 = 7.0 
+Operation: /, First num: 70.0, Second num: 10.0, Result or operation: 7.0
+
+	2024-01-17 22:31:11 
+Instance: 45.0 * 9.0 = 405.0 
+Operation: *, First num: 45.0, Second num: 9.0, Result or operation: 405.0
