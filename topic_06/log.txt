@@ -1,0 +1,5 @@
+
+
+	2024-01-17 21:55:53 
+Instance: 4.0 * 40.0 = 160.0 
+Operation: *, First num: 4.0, Second num: 40.0, Result or operation: 160.0
